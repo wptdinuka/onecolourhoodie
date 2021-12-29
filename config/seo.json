@@ -1,20 +1,20 @@
 {
-  "title": "ACME Storefront | Powered by Next.js Commerce",
-  "titleTemplate": "%s - ACME Storefront",
-  "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+  "title": "OneColourHoodie",
+  "titleTemplate": "%s - OneColourHoodie",
+  "description": "Next.js Commerce template",
   "openGraph": {
-    "title": "ACME Storefront | Powered by Next.js Commerce",
-    "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+    "title": "OneColourHoodie | Powered by Next.js Commerce",
+    "description": "",
     "type": "website",
     "locale": "en_IE",
     "url": "https://nextjs.org/commerce",
-    "site_name": "Next.js Commerce",
+    "site_name": "OneColourHoodie",
     "images": [
       {
         "url": "/card.png",
         "width": 800,
         "height": 600,
-        "alt": "Next.js Commerce"
+        "alt": "OneColourHoodie"
       }
     ]
   },
